@@ -1,3 +1,3 @@
 # FirstGit
 This is my first git repository
-Author : Sanjana Raut
+Author : Sanjana
